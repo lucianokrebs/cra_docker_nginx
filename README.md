@@ -8,7 +8,7 @@ Simple example of react app running with docker and nginx
 docker build . -t lukrebs/cra-docker
 ```
 
-### Build command:
+### Run command:
 
 ```shell
 docker run -p 8080:80 lukrebs/cra-docker
